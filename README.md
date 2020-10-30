@@ -1,6 +1,8 @@
 # LogBird
 将OKHttp日志重定向到浏览器中
 
+* APP端修改OkHttp拦截器将网络日志上报，
+* 服务端利用Socket.io实时通讯，将日志发送至浏览器客户端页面。
 
 ![Screenshot_1](Demo-pic.png)
 
