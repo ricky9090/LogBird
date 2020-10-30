@@ -1,0 +1,3 @@
+include ':logbird'
+include ':app'
+rootProject.name = "LogBirdDemo"
